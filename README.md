@@ -6,6 +6,8 @@
 
 ## 安装下载
 
+<https://github.com/jonas-wu/fast-cache/releases>
+
 ## 快速使用
 
 简单接入的文档
