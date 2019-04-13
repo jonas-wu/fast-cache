@@ -8,5 +8,11 @@
 </head>
 <body>
   <script src="../dist/bundle.js"></script>
+  <script>
+    const FC = window.FastCache
+    const cache = new FC()
+    cache.set('year', 1000)
+    alert(cache.get('year'))
+  </script>
 </body>
 </html>
