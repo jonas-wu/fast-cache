@@ -1,6 +1,7 @@
 # fast-cache
 
 小巧的前端缓存工具，防止内存泄漏
+<https://jonas-wu.github.io/doc/>
 
 ## 简介
 
@@ -17,7 +18,9 @@
 
 ## 交流 & 提问
 
-<https://github.com/jonas-wu/fast-cache/issues>
+- 提问：<https://github.com/jonas-wu/fast-cache/issues>
+- QQ群、微信群
+
 
 ## 关于作者
 
