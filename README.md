@@ -1,7 +1,8 @@
 # fast-cache
 
 小巧的前端缓存工具，防止内存泄漏
-<https://jonas-wu.github.io/doc/>
+
+<https://jonas-wu.github.io>
 
 ## 简介
 
