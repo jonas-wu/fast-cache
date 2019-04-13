@@ -1,6 +1,6 @@
 {
   "name": "fast-cache-jonas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "小巧的前端缓存工具，防止内存泄漏",
   "main": "src/index.js",
   "repository": "git@github.com:jonas-wu/fast-cache.git",

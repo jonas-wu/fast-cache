@@ -10,6 +10,10 @@ class FastCache {
   set(key, value) {
     this.list[key] = value
   }
+
+  clear() {
+    this.list = {}
+  }
 }
 
 window.FastCache = FastCache

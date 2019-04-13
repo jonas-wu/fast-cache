@@ -18,3 +18,9 @@ cache.set('year', 1000)
 ```js
 cache.get('year')
 ```
+
+## clear
+
+```js
+cache.clear()
+```
